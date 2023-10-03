@@ -7,6 +7,6 @@
 - Click search box or simply hit enter
 - See current weather and future 5-day forcast with icons populated with openweather api data
 
-![screenshot](imagesassets/screenshot.png)
+![screenshot](assets/screenshot.png)
 
 [Weather Dashboard Link](https://jablair176.github.io/Week4-CodeQuiz-Repo/)
